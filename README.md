@@ -1,6 +1,6 @@
 # 🪳 Cockroach Smash Game
 
-[![GitHub Pages](https://img.shields.io/badge/Play%20Now-GitHub%20Pages-brightgreen)](https://iahjhe.github.io/Camacho-finalact1-killthecockroaches/)
+[![GitHub Pages](https://img.shields.io/badge/Play%20Now-GitHub%20Pages-brightgreen)](https://meciefa.github.io/Camacho-finalact1-killthecockroaches/)
 [![PWA](https://img.shields.io/badge/PWA-Enabled-blue)](https://meciefa.github.io/Camacho-finalact1-killthecockroaches/)
 
 A fun Progressive Web App (PWA) game where you smash cockroaches before they escape! Built with HTML5, CSS3, and JavaScript.
