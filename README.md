@@ -37,7 +37,7 @@ Simply visit: [Play Now](https://meciefa.github.io/Camacho-finalact1-killthecock
 - Web Manifest (PWA Features)
 
 ## Project Structure
-/Ambas-finalact1-killthecockroach/
+/Camacho-finalact1-killthecockroach/
 ├── index.html # Main game file
 ├── styles.css # All game styles
 ├── app.js # Game logic
